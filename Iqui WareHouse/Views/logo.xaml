@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="logocargando" Width="135.661190" Height="153.010790">
+  <Canvas.RenderTransform>
+    <TranslateTransform X="0" Y="0"/>
+  </Canvas.RenderTransform>
+  <Canvas.Resources/>
+  <!--Unknown tag: metadata-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <Canvas Name="logocargandolayer1">
+    <Canvas.RenderTransform>
+      <MatrixTransform Matrix="1 0 0 1 -27.98150000000000 -68.74490000000000"/>
+    </Canvas.RenderTransform>
+    <Canvas Name="logocargandohexagono">
+      <Canvas.RenderTransform>
+        <MatrixTransform Matrix="1 0 0 1 917.88199999999995 -136.30000000000001"/>
+      </Canvas.RenderTransform>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandopath1551" Fill="#197BBD" StrokeThickness="22.179100" StrokeLineJoin="Round" StrokeStartLineCap="Square" StrokeEndLineCap="Square" Data="M-822.144530 205.044920C-827.740060 205.235060 -831.966260 209.572040 -836.817500 211.842310C-853.069030 221.324980 -869.507740 230.518130 -885.643830 240.179410C-889.778140 243.205900 -890.145070 248.656660 -889.802730 253.331520C-889.716530 274.190800 -889.974170 295.067390 -889.675540 315.916000C-889.121430 321.009670 -884.584160 324.052430 -880.364540 326.093510C-862.257110 336.448580 -844.306480 347.109820 -826.102110 357.275660C-821.413720 359.342940 -816.509640 356.935010 -812.632120 354.301020C-794.610790 343.796820 -776.402740 333.581440 -758.496790 322.898710C-754.362480 319.872220 -753.995550 314.421470 -754.337890 309.746610C-754.423990 288.887330 -754.166460 268.010740 -754.465080 247.162130C-755.019190 242.068450 -759.556460 239.025690 -763.776080 236.984610C-781.883600 226.629720 -799.833970 215.967940 -818.038640 205.802740C-819.342940 205.293320 -820.744320 205.034670 -822.144530 205.044920ZM-822.070330 228.939450C-806.886090 237.705730 -791.701840 246.472000 -776.517600 255.238280C-776.517600 272.772130 -776.517600 290.305990 -776.517600 307.839840C-791.701840 316.606770 -806.886090 325.373690 -822.070330 334.140620C-837.255230 325.373690 -852.440120 316.606770 -867.625020 307.839840C-867.625020 290.305990 -867.625020 272.772130 -867.625020 255.238280C-852.440120 246.472000 -837.255230 237.705730 -822.070330 228.939450Z"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandopath1553" Fill="#197BBD" StrokeThickness="22.179100" StrokeLineJoin="Round" StrokeStartLineCap="Square" StrokeEndLineCap="Square" Data="M-765.427850 248.836500C-765.427850 270.638410 -765.427850 292.440320 -765.427850 314.242230C-784.308860 325.143180 -803.189870 336.044140 -822.070880 346.945090C-840.951890 336.044140 -859.832890 325.143180 -878.713900 314.242230C-878.713900 292.440320 -878.713900 270.638410 -878.713900 248.836500C-859.832890 237.935540 -840.951890 227.034590 -822.070880 216.133630C-803.189870 227.034590 -784.308860 237.935540 -765.427850 248.836500Z"/>
+    </Canvas>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandoarribaizq" Fill="#FFFFFF" StrokeThickness="2.900000" Data="M60.353370 145.237310L86.183140 152.837360L95.813760 109.781550Z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandoarribader" Fill="#FEFFFFFF" StrokeThickness="2.900000" Opacity="0" Data="M86.183140 152.837360L131.269530 145.241940L95.813760 109.781550Z">
+      <Path.RenderTransform>
+        <MatrixTransform Matrix="1 0 0 1 0.00029000000001 0"/>
+      </Path.RenderTransform>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandoabajoder" Fill="#FEFFFFFF" StrokeThickness="2.900000" Opacity="0" Data="M86.183140 152.837360L95.809140 180.697720L131.269530 145.241940Z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandoabajoizq" Fill="#FEFEFF" StrokeThickness="2.900000" Opacity="0.43" Data="M60.353370 145.237330L95.809140 180.697720L86.183140 152.837360Z"/>
+    <Canvas Name="logocargandoestrucutragruesa">
+      <Canvas.RenderTransform>
+        <MatrixTransform Matrix="1 0 0 1 296.50700000000001 -122.96899999999999"/>
+      </Canvas.RenderTransform>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandopath1168" StrokeThickness="2.865000" Stroke="#FFFFFF" Data="M-200.697570 303.666850L-236.153340 268.206450L-200.692950 232.750670L-165.237180 268.211060Z"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandohorizontal" StrokeThickness="2.865000" Stroke="#FFFFFF" Data="M-236.153340 268.206440L-210.323570 275.806480L-165.237180 268.211060"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandopath1170" StrokeThickness="2.865000" Stroke="#FFFFFF" Data="M-200.692950 232.750670L-210.323570 275.806480L-200.697570 303.666840"/>
+    </Canvas>
+    <Canvas Name="logocargandoestructurafina">
+      <Canvas.RenderTransform>
+        <MatrixTransform Matrix="1 0 0 1 296.50700000000001 -122.96899999999999"/>
+      </Canvas.RenderTransform>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandorombo" StrokeThickness="1.100000" Stroke="#197BBD" Data="M-200.697570 303.666850L-236.153340 268.206450L-200.692950 232.750670L-165.237180 268.211060Z"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandohorizonttal" StrokeThickness="1.100000" Stroke="#197BBD" Data="M-236.153340 268.206440L-210.323570 275.806480L-165.237180 268.211060"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="logocargandovertical" StrokeThickness="1.100000" Stroke="#197BBD" Data="M-200.692950 232.750670L-210.323570 275.806480L-200.697570 303.666840"/>
+    </Canvas>
+  </Canvas>
+</Canvas>

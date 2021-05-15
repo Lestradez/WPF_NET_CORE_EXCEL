@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iqui WareHouse", "Iqui WareHouse\Iqui WareHouse.csproj", "{EDE4972C-ED2E-4B06-9065-1728F02B7420}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iqui WareHouse.Core", "Iqui WareHouse.Core\Iqui WareHouse.Core.csproj", "{5A6FCC08-D049-4F71-94DE-BFBD5C420581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE4972C-ED2E-4B06-9065-1728F02B7420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE4972C-ED2E-4B06-9065-1728F02B7420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE4972C-ED2E-4B06-9065-1728F02B7420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE4972C-ED2E-4B06-9065-1728F02B7420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6FCC08-D049-4F71-94DE-BFBD5C420581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6FCC08-D049-4F71-94DE-BFBD5C420581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6FCC08-D049-4F71-94DE-BFBD5C420581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6FCC08-D049-4F71-94DE-BFBD5C420581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9687339-DCE2-422D-9A85-9BD137E8EAEF}
+	EndGlobalSection
+EndGlobal
